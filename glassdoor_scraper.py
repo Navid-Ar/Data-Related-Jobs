@@ -8,7 +8,6 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
 
-
 def get_jobs(keyword, num_jobs, verbose):
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
 

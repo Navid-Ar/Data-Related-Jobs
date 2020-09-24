@@ -8,7 +8,6 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.webdriver.common.by import By
 
 
-
 def get_jobs(keyword, num_jobs, verbose):
     '''Gathers jobs as a dataframe, scraped from Glassdoor'''
 
@@ -29,7 +28,7 @@ def get_jobs(keyword, num_jobs, verbose):
         ChromeDriverManager().install(), options=options)
 #     driver.set_window_size(1200, 2400)
 
-    url = 'https://www.glassdoor.ca/Job/us-data-scientist-jobs-SRCH_IL.0,2_IN1_KO3,17.htm'
+    url = 'https://www.glassdoor.ca/Job/us-data-analyst-jobs-SRCH_IL.0,2_IN1_KO3,15.htm'
     driver.get(url)
     jobs = []
 

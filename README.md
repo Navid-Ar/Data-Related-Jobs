@@ -42,11 +42,11 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 
 ## EDA
 * Salary Distribution for differnt titles
-<img src="salary_distribution.JPG" alt="Salary Distribution" width="500" height="400">
+<img src="salary_distribution.JPG" alt="Salary Distribution" width="500" height="300">
 * Highest Paid states
-<img src="highest_paid_states.JPG" alt="20 Highest paid states" width="500" height="400">
+<img src="highest_paid_states.JPG" alt="20 Highest paid states" width="500" height="300">
 * Seniorty effect
-<img src="seniority.JPG" alt="Seniorty effect" width="400">
+<img src="seniority.JPG" alt="Seniorty effect" width="380">
 * Graduate degree (master or PhD) and its effect on salary
 <img src="graduate_degree.JPG" alt="Graduate degree" width="400">
 * Size of company vs salary

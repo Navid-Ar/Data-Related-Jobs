@@ -1,5 +1,5 @@
 # Data related jobs overview
-* Created a tool that predicted the salary of data related jobs (MAE~ $11.9k) to help data scientist negotiate for their salaries.
+* Created a tool that predicted the salary of data related jobs (MAE~ $11.3k) to help data scientist negotiate for their salaries.
 * Investigated the inlflunetioal features with a significant effect on the salary, and the skillset required for differnt job titles 
 * Scrapped 10000+ data related jobs (data analyst, data science, data engineer, data architect and machine learning engineer) across The US, over the priod of a month
 * Cleaned the data and extracted and engineered features from the job description text

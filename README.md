@@ -42,15 +42,26 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 
 ## EDA
 * Salary Distribution for differnt titles
-<img src="salary_distribution.JPG" alt="Salary Distribution" width="500", height="400">
+<img src="salary_distribution.JPG" alt="Salary Distribution" width="500" height="400">
 * Highest Paid states
-<img src="highest_paid_states.JPG" alt="20 Highest paid states" width="500", height="400">
+<img src="highest_paid_states.JPG" alt="20 Highest paid states" width="500" height="400">
 * Seniorty effect
 <img src="seniority.JPG" alt="Seniorty effect" width="400">
 * Graduate degree (master or PhD) and its effect on salary
 <img src="graduate_degree.JPG" alt="Graduate degree" width="400">
 * Size of company vs salary
 <img src="size_company.JPG" alt="Size vs salary" width="500">
+* Hot words in data analyst job requirements
+<img src="data analyst word cloud.JPG" alt="data analyst hotwords" width="500">
+* Hot words in data scientist job requirements
+<img src="Data scientist.JPG" alt="data scientist hotwords" width="500">
+* Hot words in data engineer job requirements
+<img src="data engineer word cloud.JPG" alt="data engineer hotwords" width="500">
+* Hot words in machine learning engineer job requirements
+<img src="Machine learning word cloud.JPG" alt="machine learning hotwords" width="500">
+* Hot words in data architect job requirements
+<img src="data architect word cloud.JPG" alt="data architect hotwords" width="500">
+
 
 
 

@@ -41,7 +41,7 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 
 
 ## EDA
-![GitHub Logo](/images/Pie chart.jpg)
+![GitHub Logo](pie_chart_salary_distribution.jpg)
 
 
 

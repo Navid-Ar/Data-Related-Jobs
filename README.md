@@ -46,7 +46,7 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 * Highest Paid states
 <img src="highest_paid_states.JPG" alt="20 Highest paid states" width="500" height="300">
 * Seniorty effect
-<img src="seniority.JPG" alt="Seniorty effect" width="390">
+<img src="seniority.JPG" alt="Seniorty effect" width="420">
 * Graduate degree (master or PhD) and its effect on salary
 <img src="graduate_degree.JPG" alt="Graduate degree" width="400">
 * Size of company vs salary
@@ -60,7 +60,7 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 * Hot words in machine learning engineer job requirements
 <img src="Machine learning word cloud.JPG" alt="machine learning hotwords" width="500">
 * Hot words in data architect job requirements
-<img src="data architectecture word cloud.JPG" alt="data architect hotwords" width="500">
+<img src="data architecture word cloud.JPG" alt="data architect hotwords" width="500">
 
 
 

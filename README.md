@@ -33,14 +33,15 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 * Dropped the duplicates, and jobs without predicted salaries
 * Dropped jobs with missing info, since they were less than 10%
 * Extracted numeric values for salary from the salary range predcited by glassdoor or reported by employers
-* Extracted average years of experience required for the job
+* Extracted the average years of experience required for the job
 * Formed 5 categories for titles and put jobs in them based on the scraped job titles
 * Extracted the seniorty level of the jobs the scraped job titles
 * Extracted state out of location 
 * Made columns for some common data tools if they were required by the jobs (python, machine learning, deep learning, big data, cloud computing)
 
 
-##EDA
+## EDA
+![GitHub Logo](/images/Pie chart.jpg)
 
 
 

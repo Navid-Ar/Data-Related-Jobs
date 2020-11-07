@@ -41,7 +41,7 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 
 
 ## EDA
-![Salary Distribution](pie_chart_salary_distribution.JPG | width=100)
+<img src="pie_chart_salary_distribution.JPG" alt="Salary Distribution" width="100">
 
 
 

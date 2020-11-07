@@ -62,7 +62,7 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 * Hot words in data architect job requirements
 <img src="data architecture word cloud.JPG" alt="data architect hotwords" width="500">
 
-
+## Model Development
 
 
 

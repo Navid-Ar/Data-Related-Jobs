@@ -63,6 +63,17 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 <img src="data architecture word cloud.JPG" alt="data architect hotwords" width="500">
 
 ## Model Development
+* Categorical variables were transformed to dummy variables.
+* First a model was built based on SVR as the base line
+* Then a model was built based on Random Forest Regressor
+* Parameter hypertuning was performed first by Random gird search to narrow down the range of hyperparameters, followed by Grid search for a more concentrated search
+* Negative mena absolute error was chosen as the metric. Accuracy was not a good option as the salary range predicted by glassdoor (or provided by employers) was wide.
+
+## Model performance
+**SVR: MAE  15.25
+**RandomForest: MAE 11.33
+
+
 
 
 

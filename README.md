@@ -46,21 +46,21 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 * Highest Paid states
 <img src="Images/highest_paid_states.JPG" alt="20 Highest paid states" width="500" height="300">
 * Seniorty effect
-<img src="seniority.JPG" alt="Seniorty effect" width="420">
+<img src="Images/seniority.JPG" alt="Seniorty effect" width="420">
 * Graduate degree (master or PhD) and its effect on salary
-<img src="graduate_degree.JPG" alt="Graduate degree" width="400">
+<img src="Images/graduate_degree.JPG" alt="Graduate degree" width="400">
 * Size of company vs salary
-<img src="size_company.JPG" alt="Size vs salary" width="500">
+<img src="Images/size_company.JPG" alt="Size vs salary" width="500">
 * Hot words in data analyst job requirements
-<img src="data analyst word cloud.JPG" alt="data analyst hotwords" width="500">
+<img src="Images/data analyst word cloud.JPG" alt="data analyst hotwords" width="500">
 * Hot words in data scientist job requirements
-<img src="Data scientist.JPG" alt="data scientist hotwords" width="500">
+<img src="Images/Data scientist.JPG" alt="data scientist hotwords" width="500">
 * Hot words in data engineer job requirements
-<img src="data engineer word cloud.JPG" alt="data engineer hotwords" width="500">
+<img src="Images/data engineer word cloud.JPG" alt="data engineer hotwords" width="500">
 * Hot words in machine learning engineer job requirements
-<img src="Machine learning word cloud.JPG" alt="machine learning hotwords" width="500">
+<img src="Images/Machine learning word cloud.JPG" alt="machine learning hotwords" width="500">
 * Hot words in data architect job requirements
-<img src="data architecture word cloud.JPG" alt="data architect hotwords" width="500">
+<img src="Images/data architecture word cloud.JPG" alt="data architect hotwords" width="500">
 
 ## Model Development
 * Categorical variables were transformed to dummy variables.

@@ -44,7 +44,7 @@ After scraping the jobs from glassdoor, data cleaning was performed:
 * Salary Distribution for differnt titles
 <img src="salary_distribution.JPG" alt="Salary Distribution" width="500" height="250">
 * Highest Paid states
-<img src="highest_paid_states.JPG" alt="20 Highest paid states" width="500" height="300">
+<img src="Images/highest_paid_states.JPG" alt="20 Highest paid states" width="500" height="300">
 * Seniorty effect
 <img src="seniority.JPG" alt="Seniorty effect" width="420">
 * Graduate degree (master or PhD) and its effect on salary
